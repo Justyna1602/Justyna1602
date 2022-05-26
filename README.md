@@ -1,5 +1,5 @@
 ###
-[![Profil](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVHis4YRMT2tHT1R56wra3fp0LLptp8_d1vkDpSuGC1LW_T2kdB0zyaAUaAQJl764NeQ&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVHis4YRMT2tHT1R56wra3fp0LLptp8_d1vkDpSuGC1LW_T2kdB0zyaAUaAQJl764NeQ&usqp=CAU)
+[![Profil](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVHis4YRMT2tHT1R56wra3fp0LLptp8_d1vkDpSuGC1LW_T2kdB0zyaAUaAQJl764NeQ&usqp=CAU)](https://github.com/Justyna1602)
 
 # While you're here, let me introduce myself!  🙋‍♀️
 
@@ -15,20 +15,13 @@
 - Yes, I am looking for a job to develop my skills.
 
 ## Languages and Tools I use on daily basis:
-[![Java](https://raw.githubusercontent.com/frekele/docker-java/master/java-logo.png)](https://github.com/olafsulich/)
-
-
-[![JavaFX](https://sdtimes.com/wp-content/uploads/2018/03/jfxlogopad1.png)](https://sdtimes.com/wp-content/uploads/2018/03/jfxlogopad1.png)
-
+#### I’m looking to collaborate on ...
+[![Java](https://raw.githubusercontent.com/frekele/docker-java/master/java-logo.png)](https://github.com/Justyna1602)     [![JavaFX](https://sdtimes.com/wp-content/uploads/2018/03/jfxlogopad1.png)](https://github.com/Justyna1602)  
+#### I’m currently learning ...
 [  
-![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
-
-[![Intelij](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYx20AN2Ln_AcEG69zks0Uy4U-VRvekRaMOg&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYx20AN2Ln_AcEG69zks0Uy4U-VRvekRaMOg&usqp=CAU)
-
-
-[![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
-
-[![GitHub](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)
+![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)](https://github.com/Justyna1602) [![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)](https://github.com/Justyna1602) [![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)](https://github.com/Justyna1602)
+#### I used...
+[![Intelij](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYx20AN2Ln_AcEG69zks0Uy4U-VRvekRaMOg&usqp=CAU)](https://github.com/Justyna1602)  [![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)](https://github.com/Justyna1602)  [![GitHub](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)](https://github.com/Justyna1602)
 
 
 ## Hey! Are you looking for...  🕵️‍♂️🕵️‍♀️
@@ -44,7 +37,6 @@
 ##  You can find me on: 🎬
 
 LinkedIn Profile
-
 [![Justyna Budzioch LinkedIn](https://secure.webtoolhub.com/static/resources/icons/set12/67a6bfe51535.png)](https://www.linkedin.com/in/justyna-budzioch/)
 
 ## You are persistent! 👏
